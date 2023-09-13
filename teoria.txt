@@ -1,0 +1,3 @@
+Boostrap: libreria de estilos css creada por twitter, le da responsividad a los sitios web
+
+CDN (content delivery network): Red de distribucion de contenidos
